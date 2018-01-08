@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice</string>
+    <string name="to">to</string>
+    <string name="subject">subject</string>
+    <string name="message">message</string>
+    <string name="send">send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+    <string name="open">open...</string>
+    <string name="ctrl_o">ctrl-o</string>
+    <string name="save">Sava As...</string>
+    <string name="Ctrl_shelf">Ctrl-shelf-s</string>
+</resources>

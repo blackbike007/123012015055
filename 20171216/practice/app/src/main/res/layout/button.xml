@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_btn"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="注册"
+    android:textColor="#2B2D2C"
+    android:clickable="false"
+    android:singleLine="true"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:ellipsize="end"
+    android:background="#D5DEE7"
+    android:textSize="18dp">
+
+</Button>

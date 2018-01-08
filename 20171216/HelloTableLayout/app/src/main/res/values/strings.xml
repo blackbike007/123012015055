@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello TableLayout</string>
+    <string name="open">open...</string>
+    <string name="ctrl_o">ctol-o</string>
+    <string name="save">save...</string>
+    <string name="ctrl_s">ctol-s</string>
+    <string name="save_as">save as...</string>
+    <string name="ctrl_shelf_as">ctol-shelf-as</string>
+    <string name="Import">Import...</string>
+    <string name="Export">Export...</string>
+    <string name="Ctrl_E">Ctrl-E</string>
+    <string name="Quit">Quit</string>
+</resources>
